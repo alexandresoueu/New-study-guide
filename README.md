@@ -1,76 +1,106 @@
-# HABILIDADES TÉCNICAS
+# Gestão de Expectativas e Comunicação
 
-- [x] Tem disposição e interesse para aprender
-Busca conhecer as melhores práticas
-Reconhece suas limitações e não hesita em pedir ajuda
+- [ ] - Precisa existir um alinhamento de expectativas sobre objetivos do time, relacionados ao Programa;
+- [ ] - Precisa ter uma visão 360, e saber o que acontece no programa e influência seu time;
 
-- [x] Seu conhecimento está em desenvolvimento
-Busca adotar as melhores práticas
-É engajado(a) com iniciativas que têm potencial para aumentar seu conhecimento
-Sua entrega ainda precisa de acompanhamento
+- [ ] - Ainda não consegue apresentar uma rastreabilidade de causa e efeito;
+- [ ] - Entende que é necessário ter um Backlog estruturado;
+- [ ] - Entende e incentiva a necessidade de ter um Backlog estruturado;
 
-- [ ] Tem domínio de boa parte do conhecimento técnico do capítulo
-Ajuda a divulgar as melhores práticas
-A entrega é pouco supervisionada
+- [ ] - Entende a necessidade e estabelece as cadências.
+- [ ] - Estabelece a cadência e começar a entender o impacto da falta.
 
-- [ ]  Tem domínio completo do conhecimento do capítulo
-É referência técnica em alguma área específica referente ao capítulo
-Ajuda a definir as melhores práticas
+- [ ] - Começa a ter uma rastreabilidade de causa e efeito;
 
-- [ ] É referência técnica em parte do conjunto de conhecimentos do capítulo
-Ensina colegas a abordar problemas
-Consegue pensar em maneiras originais de abordar problemas inéditos
+- [ ] - Já existe um alinhamento de expectativas com a gestão do programa;
+- [ ] - Já consegue comunicar bem problemas e resultados para o cliente;
+- [ ] - Conseguir apresentar rastreabilidade de causa e efeito;
+- [ ] - Tem alguma influência sobre o backlog e fomenta para que o time também exerça alguma influência;
+- [ ] - Consegue apontar a necessidade de Roadmap e release plan;
+- [ ] - Deveria levantar a necessidade de falta de cadências;
 
+# Gestão de Qualidade
 
-# FIT CULTURAL
+- [ ] - Deveria saber o que é e que é necessário
 
-- [x] Reconhece as pessoas que possam maximizar seu aprendizado e procura por elas
-Capta de forma apurada as expectativas e ideias
-Procura entender as justificativas das mudanças e os princípios da agilidade
-Se relaciona de forma respeitosa com outras pessoas
+- [ ] - Começar a trazer a importância da qualidade para o produto, indicando algumas métricas/indicadores.
 
+- [ ] - Entende e incentiva o tema qualidade para o time, trazendo algumas sugestões de indicadores, práticas.
 
-- [x] É aberto(a) a feedbacks
-Tem senso de responsabilidade
-Reconhece as questões que precisam ser levantadas, para quem e quando
-Assegura que as prioridades do trabalho estejam alinhadas com os objetivos do programa
+# Gestão de riscos
 
+- [ ] - Precisa conhecer o fluxo de trabalho;
+- [ ] - Deve seguir o fluxo determinado;
+- [ ] - Deve formalizar os riscos junto ao programa.
 
-- [x] Tem entendimento total sobre o produto e busca entender o valor entregue ao cliente
-Entende e procura seguir os princípios e valores da agilidade
-É participativo(a) em relação às iniciativas da empresa como um todo
-Tem segurança para expor sugestões e críticas ao time
-Usa fatos e dados com segurança para basear argumentos
+- [ ] - Tem que conhecer o fluxo de trabalho;
+- [ ] - Dar transparência do fluxo de trabalho para o time;
 
+- [ ] - Dominio do fluxo de trabalho e identificação de potênciais gargalos;
+- [ ] - Começa a propor melhorías no fluxo de trabalho;
+- [ ] - Entende a importância de ser ter politicas explicitas;
+- [ ] - Deveria conseguir formalizar os riscos junto ao programa e ao cliente.
 
-- [x] Entende e defende os valores da Concrete
-Ajuda frequentemente as iniciativas de colaboração com a empresa e o cliente
-Tem boa capacidade de argumentação e apresentação de dados
-Ajuda no entendimento de conceitos e informações complexas
-Entende e aplica experiências de produtos anteriores ao atual.
+# Gestão de Escopo
 
-- [x] Entende e protege os valores da Concrete
-Potencializa a colaboração entre colegas, inclusive criando iniciativas
-É claro e direto ao dar orientações, fazer perguntas e definir expectativas dentro do time
+- [ ] - Entende necessidade de ter backlog priorizado;
+- [ ] - Entende impacto da falta de um backlog priorizado;
+- [ ] - De que forma a priorização do backlog impacta não só o cliente como o programa;
 
+- [ ] - Auxília a criar cadências de refinamento;
+- [ ] - Cria previamente cadêcia de refinamento;
+- [ ] - Incentiva a cadência de refinamentos;
 
-# COMPORTAMENTO E ATITUDE
+- [ ] - Possui pouco ou nenhum ferramental técnico sobre gestão de produtos.
+- [ ] - Possui pouco ferramental técnico sobre gestão de produtos."
+- [ ] - Possui algum ferramental técnico sobre a gestao de produtos."
 
-- [x] É proativo(a) e se mostra disponível para ajudar no que for preciso
-Busca informações, documenta e comunica problemas de forma organizada
-Procura conhecer e entender o produto
-É pontual e atento(a) às normas da empresa
+- [ ] - Incomodo com a falta de priorização e planejamento;
+- [ ] - Pede ajuda para  lidar com o tema;
 
-- [x] Consegue transformar feedbacks em ações de melhoria
-Tem capacidade de se adaptar a cenários restritivos
+# Gestão de tempo e Custo
 
-- [x] Demonstra confiança ao concluir tarefas novas ou difíceis
-Tem influência positiva perante o time e o cliente
-Entende de forma satisfatória o valor gerado ao cliente e sua responsabilidade em cada entrega
-Tem resiliência e flexibilidade em relação a mudanças de alto impacto
+- [ ] - Não vai ter visibilidade sobre esses custos;
+- [ ] - Segue métricas do cliente;
+- [ ] - Entente que precisa e promove;
+- [ ] - Ainda não lida bem como datas."
 
-- [x] Participa de forma ativa nas tomadas de decisão do time
-Consegue repassar o valor gerado ao cliente com o produto em questão
-Tem influência positiva perante ao cliente e à empresa
-Consegue manter a calma e o foco mesmo sob pressão
+- [ ] - Tem pouca visibilidade sobre custos;
+- [ ] - Incentiva o uso de métricas e questiona as já existentes;
+- [ ] - Começa a compreender que as datas fazem parte da natureza dos produtos/projetos."
 
+- [ ] - Começa a ter visão sobre os custos mas, não tem visão clara de impacto;
+- [ ] - Começa a promover o uso de métricas;
+- [ ] - Já lida bem com datas
+
+# Gestão de Pessoas
+
+- [ ] - Feedbacks constantes e estruturas iniciais;
+- [ ] - Reage a atividade gestão de pessoas;
+- [ ] - Pouca habilidade para lidar com gestão de conflitos.
+
+- [ ] - Feedbacks com estruturas adaptadas;
+- [ ] - Entende a necessidade da atividade de gestão de pessoas;
+- [ ] - Começa a ter alguma habilidade de lidar com gestão de conflitos.
+
+- [ ] - Feedbacks mais estrurado
+- [ ] - Ajuda a atividade gestão de pessoas;
+- [ ] - Tem algumas habilidades de lidar com a gestão de conflitos;
+- [ ] - Tem alguma conhecimento sobre os processos da empresa.
+
+# Assessment Como oferta de serviço
+
+- [ ] - Entedimento do fluxo de valor;
+- [ ] - Conhecer pelo menos uma ferramenta de aplicação de Assessment
+- [ ] - Um ou mais times do cliente;
+
+# Capítulo
+
+- [ ] - Participa dos eventos e entende a importância da colaboração.
+
+- [ ] - Questiona sobre a atuação, melhores práticas e interações;
+- [ ] - Apresenta dúvidas sobre como atuar no time e quais práticas aplicar
+
+- [ ] - Busca ajudar na melhoria contínua do capítulo;
+- [ ] - Questiona como ajudar o capítulo;
+- [ ] - Começa a trazer cases para compartilhar e discutir lições aprendidas.
